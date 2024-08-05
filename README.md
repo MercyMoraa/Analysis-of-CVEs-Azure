@@ -1,4 +1,4 @@
-# CVE-Azure
+# Analysis of the Common Vulnerabilities and Exposures(CVEs) in Azure
 Analysis of the common vulnerabilities and exposures found in the Azure Cloud Service Provider
 
 <h1>Overview</h1>
