@@ -13,8 +13,8 @@ Fetch and parse CVE data from the National Vulnerability Database (NVD) and othe
 Categorize vulnerabilities based on severity, affected services, and more.
 Visualize data using various charts and graphs for better understanding.
 Provide actionable recommendations for mitigating identified risks.
-**Data Sources**
+<h2>Data Sources</h2>
 The primary data sources for this project include:
-1. National Vulnerability Database (NVD)
-2. CVE Details
-3. MITRE CVE Database
+* National Vulnerability Database (NVD)
+* CVE Details
+* MITRE CVE Database
